@@ -17,3 +17,9 @@ Eseguire l'applicazione compilata:
 ```bash
 java -jar target\markdown-to-pdf-converter-0.0.1-SNAPSHOT.jar
 ```
+
+## Fase 1
+
+- [ ] Conversione html 2 pdf, con file di stile
+- [ ] Conversione markdown 2 html
+- [ ] Definizione file di properties per generazione pdf
